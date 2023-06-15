@@ -907,7 +907,7 @@ Men
 
 #men .owl-nav .owl-prev:before {
   display: inline-block;
-  font-family: 'FontAwesome';
+  font-family: emoji;
   color: #fff;
   font-size: 25px;
   font-weight: 700;
@@ -945,7 +945,7 @@ Men
 
 #men .owl-nav .owl-next:before {
   display: inline-block;
-  font-family: 'FontAwesome';
+  font-family: emoji;
   color: #fff;
   font-size: 25px;
   font-weight: 700;
@@ -1070,7 +1070,7 @@ Women
 
 #women .owl-nav .owl-prev:before {
   display: inline-block;
-  font-family: 'FontAwesome';
+  font-family: emoji;
   color: #2a2a2a;
   font-size: 25px;
   font-weight: 700;
@@ -1108,7 +1108,7 @@ Women
 
 #women .owl-nav .owl-next:before {
   display: inline-block;
-  font-family: 'FontAwesome';
+  font-family: emoji;
   color: #2a2a2a;
   font-size: 25px;
   font-weight: 700;
@@ -1230,7 +1230,7 @@ Kids
 
 #kids .owl-nav .owl-prev:before {
   display: inline-block;
-  font-family: 'FontAwesome';
+  font-family: emoji;
   color: #fff;
   font-size: 25px;
   font-weight: 700;
@@ -1268,7 +1268,7 @@ Kids
 
 #kids .owl-nav .owl-next:before {
   display: inline-block;
-  font-family: 'FontAwesome';
+  font-family: emoji;
   color: #fff;
   font-size: 25px;
   font-weight: 700;
@@ -2522,7 +2522,7 @@ body{
    font-weight: 300;
    padding: 16px 0 16px 0;
    letter-spacing: 3px;
-   font-family: 'FontAwesome';
+   font-family: emoji;
    border-bottom: 1px solid #996600!important;
    
  }
@@ -2566,7 +2566,7 @@ body{
     font-size: 22px;
     border-bottom: 1px solid #996600!important;
     font-weight: 600;
-    font-family: 'FontAwesome';
+    font-family: emoji;
     
   }
 }
