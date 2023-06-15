@@ -2521,7 +2521,7 @@ body{
    color: #996600;
    font-weight: 300;
    padding: 16px 0 16px 0;
-   letter-spacing: 2px;
+   letter-spacing: 0px;
    font-family: monospace;
    border-bottom: 1px solid #996600!important;
    
