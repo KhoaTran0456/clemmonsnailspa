@@ -2517,12 +2517,12 @@ body{
   border-top: 1px solid rgba(255,255,255,0.1);
 }
  .title-big{
-   font-size: 30px;
+   font-size: 24px;
    color: #996600;
    font-weight: 300;
    padding: 16px 0 16px 0;
-   letter-spacing: 0px;
-   font-family: monospace;
+   letter-spacing: 3px;
+   font-family: 'FontAwesome';
    border-bottom: 1px solid #996600!important;
    
  }
@@ -2563,10 +2563,10 @@ body{
 @media(min-width: 768px){
   .title-big{
     padding: 0 0 10px 0;
-    font-size: 25px;
+    font-size: 22px;
     border-bottom: 1px solid #996600!important;
     font-weight: 600;
-    font-family: monospace;
+    font-family: 'FontAwesome';
     
   }
 }
